@@ -1,5 +1,5 @@
-# Demo_resume
-This is a Demo Resume
-## 📸 Output Screenshot
+<h2 align="center">📸 Output Screenshot</h2>
 
-![Resume Output(img.png)
+<p align="center">
+  <img src="assets/img.png" alt="Resume Output" width="800">
+</p>
